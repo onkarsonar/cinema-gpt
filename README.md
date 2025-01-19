@@ -2,8 +2,11 @@
 
 # My Steps to run this project
 
-# Step 1 - Create react app
-# Step 2 - Configured Tailwind CSS
+ Step 1 - Create react app
+ Step 2 - Configured Tailwind CSS
+ Step 3 - Header (Logo)
+ Step 4 - Login Form
+ Step 5 - Sign Up Form
 
 # Features 
  - Login / Signup page
@@ -20,7 +23,7 @@
 2 - Cinema Gpt
     - Search bar
     - Movie Suggestions
-    
+
 
 
 
