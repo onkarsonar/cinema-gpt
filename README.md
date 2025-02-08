@@ -7,6 +7,10 @@
  Step 3 - Header (Logo)
  Step 4 - Login Form
  Step 5 - Sign Up Form
+ Step 6 - Routing of App
+ Step 7 - Form Validation
+ Step 8 - useRef hook
+ 
 
 # Features 
  - Login / Signup page
