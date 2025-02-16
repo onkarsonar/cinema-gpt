@@ -10,6 +10,9 @@
  Step 6 - Routing of App
  Step 7 - Form Validation
  Step 8 - useRef hook
+ Step 9 - Firebase setup
+ Step 10 - Deploying our app on production
+ Step 11 - Create Signup user account in firebase
  
 
 # Features 
