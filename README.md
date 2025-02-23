@@ -13,6 +13,9 @@
  Step 9 - Firebase setup
  Step 10 - Deploying our app on production
  Step 11 - Create Signup user account in firebase
+ Step 12 - Implment sign in/up in user api
+ Step 13 - Created Redux Store with userSlice
+ 
  
 
 # Features 
