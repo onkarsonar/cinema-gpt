@@ -23,7 +23,14 @@
  Step 16 - Add hardcoded values in constnt file
  Step 17 - Register for TMDB API & get access token
  Step 18 - Get data from tmdb now playing movies
- 
+ Step 19 - Custom Hooks creation for now playing movies 
+ Step 20 - Create movie slice
+ Step 21 - Update store with movies data
+ Step 22 - Planning for MainContainer and  secondary container
+ Step 23 - Fetch data from trailer videos
+ Step 24 - Embeded youtube video and make it autoplay and mute
+ Step 25 - Added tailwind css classes for best appearance
+ Step 26 - 
  
 
 # Features 
