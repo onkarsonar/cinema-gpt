@@ -30,7 +30,12 @@
  Step 23 - Fetch data from trailer videos
  Step 24 - Embeded youtube video and make it autoplay and mute
  Step 25 - Added tailwind css classes for best appearance
- Step 26 - 
+ Step 26 - Build secondary compoennt
+ Step 27 - Build movie card
+ Step 28 - Found TMDB Image CDN
+ Step 29 - Made the browse page with tailwind css 
+ Step 30 - usePopularMovies Custom hooks
+ Step 31- 
  
 
 # Features 
