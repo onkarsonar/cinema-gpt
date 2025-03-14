@@ -35,7 +35,10 @@
  Step 28 - Found TMDB Image CDN
  Step 29 - Made the browse page with tailwind css 
  Step 30 - usePopularMovies Custom hooks
- Step 31- 
+ Step 31- Building GPT Search feature
+ Step 32 - GPT Search Bar and Page
+ Step 33 - Multi Lingual feature in web app
+ Step 34 - Integrate GPT API (get open AI key)
  
 
 # Features 
